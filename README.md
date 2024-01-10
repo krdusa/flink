@@ -7,7 +7,7 @@ Learn more about Flink at [https://flink.apache.org/](https://flink.apache.org/)
 
 ### Features
 
-* A streaming-first runtime that supports both batch processing and data streaming programs
+* A streaming runtime that supports both batch processing and data streaming programs
 
 * Elegant and fluent APIs in Java and Scala
 
